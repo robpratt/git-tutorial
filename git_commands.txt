@@ -1,0 +1,25 @@
+get git commands on mac by installing xcode command line tools:
+xcode-select --install
+
+list git commands with 'git' or 'git --help'
+
+git init
+current folder initialised as git managed
+
+git status
+status of project you're in
+
+git diff
+list changes from current staging area to local
+
+git add filename OR git add -A
+add new files, changes or deletions to the project
+
+git commit -m 'message'
+make the change locally
+
+git log
+list past messages
+
+git show HEAD
+list changes and past messages
